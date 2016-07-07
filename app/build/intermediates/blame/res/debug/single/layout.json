@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\java\\5_1_1_SimpleViewWidget\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gesture_event_layout.xml",
+        "source": "C:\\java\\5_1_1_SimpleViewWidget\\app\\src\\main\\res\\layout\\gesture_event_layout.xml"
+    },
+    {
+        "merged": "C:\\java\\5_1_1_SimpleViewWidget\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_view_layout.xml",
+        "source": "C:\\java\\5_1_1_SimpleViewWidget\\app\\src\\main\\res\\layout\\image_view_layout.xml"
+    },
+    {
+        "merged": "C:\\java\\5_1_1_SimpleViewWidget\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_callback_layout.xml",
+        "source": "C:\\java\\5_1_1_SimpleViewWidget\\app\\src\\main\\res\\layout\\activity_callback_layout.xml"
+    },
+    {
+        "merged": "C:\\java\\5_1_1_SimpleViewWidget\\app\\build\\intermediates\\res\\merged\\debug\\layout\\button_kind_layout.xml",
+        "source": "C:\\java\\5_1_1_SimpleViewWidget\\app\\src\\main\\res\\layout\\button_kind_layout.xml"
+    },
+    {
+        "merged": "C:\\java\\5_1_1_SimpleViewWidget\\app\\build\\intermediates\\res\\merged\\debug\\layout\\auto_complete_layout.xml",
+        "source": "C:\\java\\5_1_1_SimpleViewWidget\\app\\src\\main\\res\\layout\\auto_complete_layout.xml"
+    },
+    {
+        "merged": "C:\\java\\5_1_1_SimpleViewWidget\\app\\build\\intermediates\\res\\merged\\debug\\layout\\badge_layout.xml",
+        "source": "C:\\java\\5_1_1_SimpleViewWidget\\app\\src\\main\\res\\layout\\badge_layout.xml"
+    },
+    {
+        "merged": "C:\\java\\5_1_1_SimpleViewWidget\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_time_layout.xml",
+        "source": "C:\\java\\5_1_1_SimpleViewWidget\\app\\src\\main\\res\\layout\\date_time_layout.xml"
+    },
+    {
+        "merged": "C:\\java\\5_1_1_SimpleViewWidget\\app\\build\\intermediates\\res\\merged\\debug\\layout\\text_input_layout.xml",
+        "source": "C:\\java\\5_1_1_SimpleViewWidget\\app\\src\\main\\res\\layout\\text_input_layout.xml"
+    },
+    {
+        "merged": "C:\\java\\5_1_1_SimpleViewWidget\\app\\build\\intermediates\\res\\merged\\debug\\layout\\event_handler_layout.xml",
+        "source": "C:\\java\\5_1_1_SimpleViewWidget\\app\\src\\main\\res\\layout\\event_handler_layout.xml"
+    },
+    {
+        "merged": "C:\\java\\5_1_1_SimpleViewWidget\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\java\\5_1_1_SimpleViewWidget\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\java\\5_1_1_SimpleViewWidget\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ime_key_board_control_layout.xml",
+        "source": "C:\\java\\5_1_1_SimpleViewWidget\\app\\src\\main\\res\\layout\\ime_key_board_control_layout.xml"
+    },
+    {
+        "merged": "C:\\java\\5_1_1_SimpleViewWidget\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ime_key_board_layout.xml",
+        "source": "C:\\java\\5_1_1_SimpleViewWidget\\app\\src\\main\\res\\layout\\ime_key_board_layout.xml"
+    },
+    {
+        "merged": "C:\\java\\5_1_1_SimpleViewWidget\\app\\build\\intermediates\\res\\merged\\debug\\layout\\textview_layout.xml",
+        "source": "C:\\java\\5_1_1_SimpleViewWidget\\app\\src\\main\\res\\layout\\textview_layout.xml"
+    }
+]

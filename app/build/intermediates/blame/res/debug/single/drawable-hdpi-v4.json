@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\java\\5_1_1_SimpleViewWidget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_zoom_page_press.png",
+        "source": "C:\\java\\5_1_1_SimpleViewWidget\\app\\src\\main\\res\\drawable-hdpi\\btn_zoom_page_press.png"
+    },
+    {
+        "merged": "C:\\java\\5_1_1_SimpleViewWidget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\second_home_3.png",
+        "source": "C:\\java\\5_1_1_SimpleViewWidget\\app\\src\\main\\res\\drawable-hdpi\\second_home_3.png"
+    },
+    {
+        "merged": "C:\\java\\5_1_1_SimpleViewWidget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_selector_example.xml",
+        "source": "C:\\java\\5_1_1_SimpleViewWidget\\app\\src\\main\\res\\drawable-hdpi\\button_selector_example.xml"
+    },
+    {
+        "merged": "C:\\java\\5_1_1_SimpleViewWidget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tara_ji_yeon.png",
+        "source": "C:\\java\\5_1_1_SimpleViewWidget\\app\\src\\main\\res\\drawable-hdpi\\tara_ji_yeon.png"
+    },
+    {
+        "merged": "C:\\java\\5_1_1_SimpleViewWidget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher_android.png",
+        "source": "C:\\java\\5_1_1_SimpleViewWidget\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_android.png"
+    },
+    {
+        "merged": "C:\\java\\5_1_1_SimpleViewWidget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\second_home_2.png",
+        "source": "C:\\java\\5_1_1_SimpleViewWidget\\app\\src\\main\\res\\drawable-hdpi\\second_home_2.png"
+    },
+    {
+        "merged": "C:\\java\\5_1_1_SimpleViewWidget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\compass_base.png",
+        "source": "C:\\java\\5_1_1_SimpleViewWidget\\app\\src\\main\\res\\drawable-hdpi\\compass_base.png"
+    },
+    {
+        "merged": "C:\\java\\5_1_1_SimpleViewWidget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\second_home_1.png",
+        "source": "C:\\java\\5_1_1_SimpleViewWidget\\app\\src\\main\\res\\drawable-hdpi\\second_home_1.png"
+    },
+    {
+        "merged": "C:\\java\\5_1_1_SimpleViewWidget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "C:\\java\\5_1_1_SimpleViewWidget\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\java\\5_1_1_SimpleViewWidget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camera_pic.png",
+        "source": "C:\\java\\5_1_1_SimpleViewWidget\\app\\src\\main\\res\\drawable-hdpi\\camera_pic.png"
+    }
+]

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.pyo.android.simple.widget"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name" >
+        <activity
+            android:name="com.pyo.android.simple.widget.AndroidSimpleWidget"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.pyo.android.simple.widget.ButtonKindActivity" />
+        <activity android:name="com.pyo.android.simple.widget.DateTimePicker" />
+        <activity android:name="com.pyo.android.simple.widget.GestureTouchEventActivity" />
+        <activity android:name="com.pyo.android.simple.widget.WidgetFormDisplay" />
+        <activity android:name="com.pyo.android.simple.widget.TextInputActivity" />
+        <activity android:name="com.pyo.android.simple.widget.TextViewDisplay" />
+        <activity android:name="com.pyo.android.simple.widget.KeyPadControlActivity" />
+        <activity android:name="com.pyo.android.simple.widget.KeyPadInputTypeActivity" />
+        <activity android:name="com.pyo.android.simple.widget.AutoCompleteTextViewActivity" />
+        <activity android:name="com.pyo.android.simple.widget.ImageViewActivity" />
+        <activity android:name="com.pyo.android.simple.widget.AndroidEventListActivity" />
+        <activity
+            android:name="com.pyo.android.simple.widget.SimpleViewCallBackEventActivity"
+            android:label="뷰 콜백 이벤트 예제"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.pyo.android.simple.widget.ActivityCallbackEventActivity"
+            android:label="액티비티 콜백 이벤트 예제"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity android:name="com.pyo.android.simple.widget.EventPriorityActivity" />
+    </application>
+
+</manifest>
